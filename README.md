@@ -1,5 +1,4 @@
-# Assignment 2 - CIS4010 Cloud Computing
-## Yousif Jamal; yjamal; 1160861
+# AWS S3 CLI w Summary Statistics Generation
 
 ### Overview
 - A2Functions.py does all the actual legwork of the program, A2Main.py just connects to aws and runs the while loop/takes user input
@@ -17,8 +16,6 @@
 
 
 ### REPORTS
-- Given the option to either have a PDF or display on Cmd Line by Prof - I chose the Command line
-- it's assumed that Years correspond between all tables. So an addition of 1969 population for Argentina implies an addition of 1969 GDP 
 - Report A may take upwards of 3 minutes to calculate the population depending on your dataset (this is because it has to compare the derived
 population density value against all other possible density values of that year, for every single year globally - thus it must calculate all 
 densities for all countries for all years, then rank them) - it was 1:30 - 2minutes give or take with a 40 country dataset
