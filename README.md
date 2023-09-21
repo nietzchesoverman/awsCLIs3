@@ -2,9 +2,7 @@
 ## Yousif Jamal; yjamal; 1160861
 
 ### Overview
-- 0 Changes have been made to the original .csv files - they should work based on the 06 Feb 22 version that I downloaded off of courselink
 - A2Functions.py does all the actual legwork of the program, A2Main.py just connects to aws and runs the while loop/takes user input
-- All Assignment functionality is present
 - Create Table takes ~2 mins as it needs to ensure that all tables are made and considered "active" before it can allow any further manipulation
 - You can utilize all modules through the interactive menu, it prompts you for all necessary commands it requires
 
